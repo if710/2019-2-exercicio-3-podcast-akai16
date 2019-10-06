@@ -27,11 +27,11 @@ Este exercício é baseado no [exercício anterior](https://github.com/if710/201
 
 | Passo | Completou? |
 | ------ | ------ |
-| 7 | **não** |
-| 8 | **não** |
-| 9 | **não** |
-| 10 | **não** |
-| 11 | **não** |
-| 12 | **não** |
-| 13 | **não** |
-| 14 | **não** |
+| 7 | **Sim** |
+| 8 | **Sim** |
+| 9 | **Sim** |
+| 10 | **Sim** |
+| 11 | **Sim** |
+| 12 | **Sim** |
+| 13 | **Sim** |
+| 14 | **Sim** |

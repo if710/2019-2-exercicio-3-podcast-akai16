@@ -1,0 +1,16 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <PreferenceCategory
+        android:title="Atualização do Feed">
+
+        <EditTextPreference
+            android:key="feed_update"
+            android:title="Timer"
+            android:dialogTitle="RSS Timer"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
